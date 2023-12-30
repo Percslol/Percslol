@@ -1,3 +1,9 @@
+<div align="center">
+  	<img class="img" src="https://avatars.githubusercontent.com/u/83934299?v=4">
+		<div style="font-size: 180%;">Percs</div>
+		<div>14</div>
+		<div>"software engineer"</div>
+</div>
 <h1 align="center">Languages I Use</h2>
 <br>
 <p align="center">
