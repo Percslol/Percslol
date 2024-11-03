@@ -1,7 +1,7 @@
 <div align="center">
   	<img class="img" src="https://avatars.githubusercontent.com/u/83934299?v=4">
 		<div style="font-size: 180%;">Percs</div>
-		<div>15/div>
+		<div>15</div>
 		<div>"software engineer"</div>
 </div>
 <h1 align="center">Languages I Use</h2>
