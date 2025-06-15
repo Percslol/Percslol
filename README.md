@@ -12,4 +12,4 @@ email: [me@percs.dev](mailto:me@percs.dev)
 <br>
 discord: [updive](https://discord.com/users/767559339841683467)
 <br>
-twitter [percsisok](https://x.com/percsisok)
+twitter: [percsisok](https://x.com/percsisok)
