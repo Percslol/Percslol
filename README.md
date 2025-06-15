@@ -1,34 +1,15 @@
-<div align="center">
-  	<img class="img" src="https://avatars.githubusercontent.com/u/83934299?v=4">
-		<div style="font-size: 180%;">Percs</div>
-		<div>15</div>
-		<div>"software engineer"</div>
-</div>
-<h1 align="center">Languages I Use</h2>
+hi, im percs
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,css,html,bash" />
-  </a>
-</p>
+i do stuff for [Mercury Workshop](https://github.com/MercuryWorkshop) and just make random things
 <br>
-<h1 align="center">Tools I Use</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,stackoverflow,linux,ai" />
-  </a>
-</p>
-<br>
+[![percs's GitHub stats](https://github-readme-stats.vercel.app/api?username=percslol&show_icons=true)](https://github.com/percslol)
 
-<h1 align="center">My GitHub Stats</h2>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Percslol" />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Percslol" />
-</a>
-</p>
+### technology i use
+<img src="https://skillicons.dev/icons?i=py,js,ts,css,html,bash" />
+
+### contact
+email: [me@percs.dev](mailto:me@percs.dev)
+<br>
+discord: [updive](https://discord.com/users/767559339841683467)
+<br>
+twitter [percsisok](https://x.com/percsisok)
