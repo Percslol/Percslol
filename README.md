@@ -2,7 +2,10 @@ hi, im percs
 <br>
 i work on software at [Mercury Workshop](https://github.com/MercuryWorkshop) and just make interesting things
 <br>
-[![percs's GitHub stats](https://github-readme-stats.vercel.app/api?username=percslol&show_icons=true)](https://github.com/percslol)
+![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### contact
 email: [me@percs.dev](mailto:me@percs.dev)
