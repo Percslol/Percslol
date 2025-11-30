@@ -4,8 +4,6 @@ i work on software at [Mercury Workshop](https://github.com/MercuryWorkshop) and
 <br>
 ![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Percslol/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### contact
 email: [me@percs.dev](mailto:me@percs.dev)
